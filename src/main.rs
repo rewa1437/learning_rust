@@ -16,4 +16,8 @@ fn main() {
     // let first_letter : char = 'a';
     // println!("my first letter of my name is {}", first_letter)
 
+    //arrays 
+    let age_range:[i32;4] = [17,18,19,20];
+    println!("range of age i have in my data is {:?}",age_range)
+
 }
